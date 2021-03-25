@@ -16,6 +16,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sentinel</module>
+        <module>sentinel-nacos-setting</module>
     </modules>
 
 
